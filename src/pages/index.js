@@ -53,7 +53,7 @@ const IndexPage = () => (
           </header>
 
           <p>
-            
+            NXNN
           </p>
 
           <div className="row">
