@@ -34,7 +34,6 @@ const IndexPage = () => (
             </h2>
             <p>I'm not a nerd, I'm a intellectual Rockstar    
                 <br />                        .
-
    Data Science and Physical Engineering Student.</p>
           </header>
 
