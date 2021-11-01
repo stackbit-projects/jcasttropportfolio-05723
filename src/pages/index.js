@@ -54,7 +54,7 @@ const IndexPage = () => (
           </header>
 
           <p>
-            NXNN
+            Here are some projects that I have done as a student. Well, I don't have work experience yet, but I want to help people achieve their goals through my work.
           </p>
 
           <div className="row">
