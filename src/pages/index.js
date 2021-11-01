@@ -32,7 +32,7 @@ const IndexPage = () => (
               Hi! I'm <strong>Julian Castro</strong>
               <br />
             </h2>
-            <p>I have made few things check it out.</p>
+            <p>I.</p>
           </header>
 
           <footer>
