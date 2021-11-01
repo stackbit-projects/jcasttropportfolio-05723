@@ -31,7 +31,7 @@ const IndexPage = () => (
             <h2 className="alt">
               Hi! I'm <strong>Julian Castro</strong>
               <br />
-              
+        
             </h2>
             <p>I have made few things check it out.</p>
           </header>
