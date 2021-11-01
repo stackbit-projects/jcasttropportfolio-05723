@@ -33,7 +33,7 @@ const IndexPage = () => (
               <br />
             </h2>
             <p>
-                <br />                        .
+                           .
                 Data Science and Physical Engineering Student.</p>
           </header>
 
