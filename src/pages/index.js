@@ -32,7 +32,7 @@ const IndexPage = () => (
               Hi! I'm <strong>Julian Castro</strong>
               <br />
             </h2>
-            <p>I'm not a nerd, I'm a intellectual Rockstar        .
+            <p>I'm not a nerd, I'm a intellectual Rockstar                           .
 
    Data Science and Physical Engineering Student.</p>
           </header>
